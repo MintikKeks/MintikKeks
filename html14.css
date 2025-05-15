@@ -1,0 +1,36 @@
+.Oplata {
+	color: #f4e0f9 ;
+  text-decoration: underline #f4e0f9 ;
+ 
+}
+
+.Oplata:active: {
+	color: #fff ;
+}
+
+body {
+ background-color: #d08ce1;
+ color: #fff ;
+ text-align: center ;
+ font-family: "Shantell Sans", cursive;
+ font-style: normal;
+}
+
+}
+
+
+h5.color {
+	color: #f8e7fc;
+}
+img.Primer {
+
+ box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+ padding: 10px;
+ background-color: #fff ; 
+ border: 3px solid #fff; 
+ border-radius: 15px; 
+ border-radius: 4px;
+ font-size: 14px;
+ color: #fff;
+
+}
